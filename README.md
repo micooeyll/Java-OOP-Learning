@@ -1,6 +1,6 @@
 # Student Class – Java OOP
 
-This project was created to practice basic concepts of
+These projects were created to practice basic concepts of
 Object Oriented Programming (OOP) in Java.
 
 ## Purpose
@@ -11,10 +11,7 @@ Object Oriented Programming (OOP) in Java.
 
 ## Project Structure
 
-src
- └─ oop.basics
-    ├─ Student.java
-    └─ StudentTest.java
+
 
 ## Description
 
@@ -26,5 +23,4 @@ src
 
 Run the `StudentTest.java` file as a Java Application.
 
-## Note
-This project is for learning purposes. (12.12.2025)
+ (12.12.2025)
