@@ -1,6 +1,6 @@
 # Student Class – Java OOP
 
-These projects were created to practice basic concepts of
+These projects were created to practice classes chapter of
 Object Oriented Programming (OOP) in Java.
 
 ## Purpose
@@ -9,14 +9,10 @@ Object Oriented Programming (OOP) in Java.
 - Practice encapsulation (private fields and getter methods)
 - Test the class using a separate main class
 
-## Project Structure
-
-
-
 ## Description
 
 - `Student.java` contains the student class and its properties
-- `StudentTest.java` contains the `main` method and is used for testing
+- `StudentTest.java` contains the `main` method and is used for testing while testing , code also take infos from user.
 - The honor status of a student is determined based on GPA
 
 ## How to Run
